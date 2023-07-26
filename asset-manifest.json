@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sklara/static/css/main.ef1bb430.css",
-    "main.js": "/sklara/static/js/main.6095d060.js",
-    "static/js/787.82cfa538.chunk.js": "/sklara/static/js/787.82cfa538.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sklara/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/sklara/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sklara/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sklara/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sklara/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/sklara/index.html",
-    "main.ef1bb430.css.map": "/sklara/static/css/main.ef1bb430.css.map",
-    "main.6095d060.js.map": "/sklara/static/js/main.6095d060.js.map",
-    "787.82cfa538.chunk.js.map": "/sklara/static/js/787.82cfa538.chunk.js.map"
+    "main.css": "/Sklara/static/css/main.bca18796.css",
+    "main.js": "/Sklara/static/js/main.7a399171.js",
+    "static/js/787.82cfa538.chunk.js": "/Sklara/static/js/787.82cfa538.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Sklara/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Sklara/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Sklara/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Sklara/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Sklara/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Sklara/index.html",
+    "main.bca18796.css.map": "/Sklara/static/css/main.bca18796.css.map",
+    "main.7a399171.js.map": "/Sklara/static/js/main.7a399171.js.map",
+    "787.82cfa538.chunk.js.map": "/Sklara/static/js/787.82cfa538.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef1bb430.css",
-    "static/js/main.6095d060.js"
+    "static/css/main.bca18796.css",
+    "static/js/main.7a399171.js"
   ]
 }
